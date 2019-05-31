@@ -14,6 +14,21 @@
 		BC0A041F22335A8C00099610 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC0A041D22335A8C00099610 /* LaunchScreen.storyboard */; };
 		BC0A042A22335A8C00099610 /* REMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0A042922335A8C00099610 /* REMTests.swift */; };
 		BC0A043522335A8C00099610 /* REMUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0A043422335A8C00099610 /* REMUITests.swift */; };
+		BC1B1614223637A9004B5596 /* SubMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC1B1613223637A9004B5596 /* SubMenuViewController.swift */; };
+		BC92DA80223638570018D869 /* AccountSettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC92DA7F223638570018D869 /* AccountSettingViewController.swift */; };
+		BC92DA8D223645600018D869 /* Back.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA812236455B0018D869 /* Back.png */; };
+		BC92DA8E223645600018D869 /* range_select_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA822236455C0018D869 /* range_select_bar.png */; };
+		BC92DA90223645600018D869 /* top_bar.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA842236455C0018D869 /* top_bar.png */; };
+		BC92DA91223645600018D869 /* sleep_gauge_blank.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA852236455C0018D869 /* sleep_gauge_blank.png */; };
+		BC92DA92223645600018D869 /* allow_right.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA862236455D0018D869 /* allow_right.png */; };
+		BC92DA93223645600018D869 /* launch_screen.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA872236455D0018D869 /* launch_screen.png */; };
+		BC92DA94223645600018D869 /* Action Separator.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA882236455D0018D869 /* Action Separator.png */; };
+		BC92DA95223645600018D869 /* allow_left.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA892236455E0018D869 /* allow_left.png */; };
+		BC92DA96223645600018D869 /* REM_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA8A2236455E0018D869 /* REM_logo.png */; };
+		BC92DA97223645600018D869 /* sleep_graph.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA8B2236455F0018D869 /* sleep_graph.png */; };
+		BC92DA98223645600018D869 /* sleep_gauge_fill.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA8C2236455F0018D869 /* sleep_gauge_fill.png */; };
+		BC92DA9A22364FE10018D869 /* show_menu_switch.png in Resources */ = {isa = PBXBuildFile; fileRef = BC92DA9922364FE00018D869 /* show_menu_switch.png */; };
+		BCDB6C272256269100A191AE /* side_menu.png in Resources */ = {isa = PBXBuildFile; fileRef = BCDB6C262256269100A191AE /* side_menu.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +62,22 @@
 		BC0A043022335A8C00099610 /* REMUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = REMUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC0A043422335A8C00099610 /* REMUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = REMUITests.swift; sourceTree = "<group>"; };
 		BC0A043622335A8C00099610 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC1B1613223637A9004B5596 /* SubMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubMenuViewController.swift; sourceTree = "<group>"; };
+		BC630B3A2233753B00AE547A /* SFCompactText-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "SFCompactText-Bold.otf"; path = "../../../../../System/Library/Fonts/SFCompactText-Bold.otf"; sourceTree = "<group>"; };
+		BC92DA7F223638570018D869 /* AccountSettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountSettingViewController.swift; sourceTree = "<group>"; };
+		BC92DA812236455B0018D869 /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Back.png; sourceTree = "<group>"; };
+		BC92DA822236455C0018D869 /* range_select_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = range_select_bar.png; sourceTree = "<group>"; };
+		BC92DA842236455C0018D869 /* top_bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = top_bar.png; sourceTree = "<group>"; };
+		BC92DA852236455C0018D869 /* sleep_gauge_blank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sleep_gauge_blank.png; sourceTree = "<group>"; };
+		BC92DA862236455D0018D869 /* allow_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = allow_right.png; sourceTree = "<group>"; };
+		BC92DA872236455D0018D869 /* launch_screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = launch_screen.png; sourceTree = "<group>"; };
+		BC92DA882236455D0018D869 /* Action Separator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Action Separator.png"; sourceTree = "<group>"; };
+		BC92DA892236455E0018D869 /* allow_left.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = allow_left.png; sourceTree = "<group>"; };
+		BC92DA8A2236455E0018D869 /* REM_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = REM_logo.png; sourceTree = "<group>"; };
+		BC92DA8B2236455F0018D869 /* sleep_graph.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sleep_graph.png; sourceTree = "<group>"; };
+		BC92DA8C2236455F0018D869 /* sleep_gauge_fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sleep_gauge_fill.png; sourceTree = "<group>"; };
+		BC92DA9922364FE00018D869 /* show_menu_switch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = show_menu_switch.png; sourceTree = "<group>"; };
+		BCDB6C262256269100A191AE /* side_menu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = side_menu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +128,25 @@
 		BC0A041322335A8A00099610 /* REM */ = {
 			isa = PBXGroup;
 			children = (
+				BC1B1613223637A9004B5596 /* SubMenuViewController.swift */,
 				BC0A041422335A8A00099610 /* AppDelegate.swift */,
 				BC0A041622335A8A00099610 /* ViewController.swift */,
 				BC0A041822335A8A00099610 /* Main.storyboard */,
+				BC92DA7F223638570018D869 /* AccountSettingViewController.swift */,
+				BC92DA882236455D0018D869 /* Action Separator.png */,
+				BC92DA9922364FE00018D869 /* show_menu_switch.png */,
+				BC92DA892236455E0018D869 /* allow_left.png */,
+				BC92DA862236455D0018D869 /* allow_right.png */,
+				BCDB6C262256269100A191AE /* side_menu.png */,
+				BC92DA812236455B0018D869 /* Back.png */,
+				BC92DA872236455D0018D869 /* launch_screen.png */,
+				BC92DA822236455C0018D869 /* range_select_bar.png */,
+				BC92DA8A2236455E0018D869 /* REM_logo.png */,
+				BC92DA852236455C0018D869 /* sleep_gauge_blank.png */,
+				BC92DA8C2236455F0018D869 /* sleep_gauge_fill.png */,
+				BC92DA8B2236455F0018D869 /* sleep_graph.png */,
+				BC92DA842236455C0018D869 /* top_bar.png */,
+				BC630B3A2233753B00AE547A /* SFCompactText-Bold.otf */,
 				BC0A041B22335A8C00099610 /* Assets.xcassets */,
 				BC0A041D22335A8C00099610 /* LaunchScreen.storyboard */,
 				BC0A042022335A8C00099610 /* Info.plist */,
@@ -229,7 +276,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC92DA93223645600018D869 /* launch_screen.png in Resources */,
+				BC92DA91223645600018D869 /* sleep_gauge_blank.png in Resources */,
+				BC92DA95223645600018D869 /* allow_left.png in Resources */,
+				BC92DA8D223645600018D869 /* Back.png in Resources */,
+				BC92DA98223645600018D869 /* sleep_gauge_fill.png in Resources */,
+				BC92DA96223645600018D869 /* REM_logo.png in Resources */,
+				BC92DA90223645600018D869 /* top_bar.png in Resources */,
+				BC92DA8E223645600018D869 /* range_select_bar.png in Resources */,
 				BC0A041F22335A8C00099610 /* LaunchScreen.storyboard in Resources */,
+				BCDB6C272256269100A191AE /* side_menu.png in Resources */,
+				BC92DA97223645600018D869 /* sleep_graph.png in Resources */,
+				BC92DA92223645600018D869 /* allow_right.png in Resources */,
+				BC92DA94223645600018D869 /* Action Separator.png in Resources */,
+				BC92DA9A22364FE10018D869 /* show_menu_switch.png in Resources */,
 				BC0A041C22335A8C00099610 /* Assets.xcassets in Resources */,
 				BC0A041A22335A8A00099610 /* Main.storyboard in Resources */,
 			);
@@ -256,8 +316,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC1B1614223637A9004B5596 /* SubMenuViewController.swift in Sources */,
 				BC0A041722335A8A00099610 /* ViewController.swift in Sources */,
 				BC0A041522335A8A00099610 /* AppDelegate.swift in Sources */,
+				BC92DA80223638570018D869 /* AccountSettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +494,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K5KVXXRJ34;
 				INFOPLIST_FILE = REM/Info.plist;
@@ -450,6 +513,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = K5KVXXRJ34;
 				INFOPLIST_FILE = REM/Info.plist;
